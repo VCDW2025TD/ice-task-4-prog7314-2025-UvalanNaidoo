@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MemeStream1</string>
+
+    <string name="default_web_client_id">133185399508-q0btne0mpn923hbrpkdmg9to6tdtiosd.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
